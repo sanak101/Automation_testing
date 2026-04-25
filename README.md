@@ -1,23 +1,23 @@
-# 🧪 Selenium Automation Practice Projects
+#  Selenium Automation Practice Projects
 
 This repository contains my hands-on practice projects using **Python + Selenium WebDriver** as part of my journey into **Automation Testing**.
 
-## 🚀 Projects Included
+##  Projects Included
 
-### 1️⃣ Login Automation Test
+### 1️ Login Automation Test
 
 * Automated login functionality using Selenium
 * Tested both valid and invalid credentials
 * Used explicit waits to handle dynamic elements
 * Verified successful login using validation message
 
-🔧 **Skills Used:**
+ **Skills Used:**
 
 * Element locators (ID, XPath)
 * Explicit waits (WebDriverWait)
 * Basic validation (PASS / FAIL logic)
 
-### 2️⃣ Form Automation (Full Form Filling)
+### 2️ Form Automation (Full Form Filling)
 
 * Automated a complete web form including:
 
@@ -41,7 +41,7 @@ This repository contains my hands-on practice projects using **Python + Selenium
 * Form automation techniques
 * Scrolling and interaction handling
 
-## 🧠 What I Learned
+##  What I Learned
 
 * Writing stable automation scripts using **explicit waits**
 * Debugging common Selenium errors
@@ -56,7 +56,7 @@ This repository contains my hands-on practice projects using **Python + Selenium
 * Chrome Browser
 * VS Code
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -83,19 +83,19 @@ python filename.py
 
 ---
 
-## 📌 Note
+##  Note
 
 These scripts are created for learning purposes using demo websites.
 Some elements may change over time, which may require updating selectors.
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Convert scripts into structured test cases (pytest)
 * Add test reporting (PASS/FAIL summary)
 * Improve test coverage
 * Organize project using Page Object Model (POM)
 
-## 💼 About Me
+##  About Me
 
 I am an aspiring **QA Automation Engineer** currently learning:
 
