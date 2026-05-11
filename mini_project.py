@@ -29,7 +29,8 @@ def test_invalid_login():
     driver.get("https://the-internet.herokuapp.com/login")
 
     wait.until(EC.visibility_of_element_located((By.ID, "username"))).send_keys("mrsmith")
-    driver.find_element(By.ID, "password").send_keys("Wrongpass")
+    driver.find_element(By.ID, "password").send_keys("helloworld")
+
     driver.find_element(By.CLASS_NAME, "radius").click()
 
     error_msg = wait.until(
